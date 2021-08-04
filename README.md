@@ -11,5 +11,3 @@ Simple example of using react-intl for Next.js with your static-generated-site /
 ## Ho to run static site from `/out` folder
 - Install `http-server` using the `npm i -g http-server` command to add it globally
 - After the package is installed got to the `/out` directory and run `http-server` to host your static site locally on port `:8080`
-
-
